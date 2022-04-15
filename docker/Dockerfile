@@ -20,3 +20,8 @@ EXPOSE 9090
 
 WORKDIR /home/webgoat
 ENTRYPOINT /bin/bash /home/webgoat/start.sh $webgoat_version_env
+
+
+
+
+
